@@ -1,0 +1,17 @@
+{
+    "id": "0f112d18-80ba-4cf7-a791-70e1b92769bd",
+    "scriptName": "对AI隐藏法妮娅状态栏",
+    "findRegex": "/<gal_panel>([\\s\\S]*?)<\\/gal_panel>/gi ",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
